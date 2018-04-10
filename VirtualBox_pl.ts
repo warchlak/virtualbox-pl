@@ -1349,7 +1349,7 @@
     </message>
     <message>
         <source>Display the Host Network Manager window</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetla okno Zarządzania siecią gościa</translation>
     </message>
     <message>
         <source>&amp;Machine Tools</source>
@@ -2980,7 +2980,7 @@ p, li { white-space: pre-wrap; }
     <name>UIGChooserItemMachine</name>
     <message>
         <source>Virtual Machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Maszyna wirtualna</translation>
     </message>
 </context>
 <context>
@@ -2994,7 +2994,7 @@ p, li { white-space: pre-wrap; }
     <name>UIGChooserView</name>
     <message>
         <source>Contains a tree of Virtual Machines and their groups</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawiera drzewo maszyn wirtualnych i ich grup</translation>
     </message>
 </context>
 <context>
@@ -3371,22 +3371,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Enabled</source>
         <comment>details (system/EFI)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Włączone</translation>
     </message>
     <message>
         <source>EFI</source>
         <comment>details (system)</comment>
-        <translation type="unfinished"></translation>
+        <translation>EFI</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>details (system/EFI)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyłączone</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>details (display/Unscaled HiDPI Video Output)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyłączony</translation>
     </message>
     <message>
         <source>Audio Output</source>
@@ -3396,12 +3396,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Enabled</source>
         <comment>details (audio/output)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Włączone</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>details (audio/output)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyłączone</translation>
     </message>
     <message>
         <source>Audio Input</source>
@@ -3411,12 +3411,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Enabled</source>
         <comment>details (audio/input)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Włączone</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>details (audio/input)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyłączone</translation>
     </message>
 </context>
 <context>
@@ -3657,7 +3657,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Raise Window Under Mouse</source>
-        <translation>&amp;Podnieś okno pod mysz</translation>
+        <translation type="unfinished">&amp;Podnieś okno pod mysz</translation>
     </message>
     <message>
         <source>Holds the maximum width which we would like the guest to use.</source>
@@ -4690,19 +4690,19 @@ p, li { white-space: pre-wrap; }
     <name>UIHostNetworkDetailsWidget</name>
     <message>
         <source>&amp;Adapter</source>
-        <translation type="unfinished">&amp;Karta</translation>
+        <translation>&amp;Karta</translation>
     </message>
     <message>
         <source>&amp;DHCP Server</source>
-        <translation type="unfinished">Serwer &amp;DHCP</translation>
+        <translation>Serwer &amp;DHCP</translation>
     </message>
     <message>
         <source>Configure Adapter &amp;Automatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguruj kartę &amp;automatycznie</translation>
     </message>
     <message>
         <source>Configure Adapter &amp;Manually</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguruj kartę &amp;ręcznie</translation>
     </message>
     <message>
         <source>&amp;IPv4 Address:</source>
@@ -4710,7 +4710,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Holds the host IPv4 address for this adapter.</source>
-        <translation type="unfinished">Przechowuje adres IPv4 gospodarza dla tej karty.</translation>
+        <translation>Przechowuje adres IPv4 gospodarza dla tej karty.</translation>
     </message>
     <message>
         <source>IPv4 Network &amp;Mask:</source>
@@ -4718,27 +4718,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Holds the host IPv4 network mask for this adapter.</source>
-        <translation type="unfinished">Przechowuje maskę sieci IPv4 gospodarza dla tej karty.</translation>
+        <translation>Przechowuje maskę sieci IPv4 gospodarza dla tej karty.</translation>
     </message>
     <message>
         <source>I&amp;Pv6 Address:</source>
-        <translation type="unfinished">Adres I&amp;Pv6:</translation>
+        <translation>Adres I&amp;Pv6:</translation>
     </message>
     <message>
         <source>Holds the host IPv6 address for this adapter if IPv6 is supported.</source>
-        <translation type="unfinished">Przechowuje adres IPv6 gospodarza dla tej karty, jeśli IPv6 jest dostępne.</translation>
+        <translation>Przechowuje adres IPv6 gospodarza dla tej karty, jeśli IPv6 jest dostępne.</translation>
     </message>
     <message>
         <source>IPv6 Prefix &amp;Length:</source>
-        <translation type="unfinished">Dł&amp;ugość maski sieci IPv6:</translation>
+        <translation>Dł&amp;ugość maski sieci IPv6:</translation>
     </message>
     <message>
         <source>Holds the host IPv6 prefix length for this adapter if IPv6 is supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przechowuje długość prefiksu maski sieci IPv6 gospodarza dla tej karty, jeśli IPv6 jest dostępne.</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">Zresetuj</translation>
+        <translation>Zresetuj</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -4746,47 +4746,47 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Reset changes in current interface details</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj zmiany w szczegółach bieżącego interfejsu</translation>
     </message>
     <message>
         <source>Apply changes in current interface details</source>
-        <translation type="unfinished"></translation>
+        <translation>Zstosuj zmiany w szczegółach bieżącego interfejsu</translation>
     </message>
     <message>
         <source>Reset Changes (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj zmiany (%1)</translation>
     </message>
     <message>
         <source>Apply Changes (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj zmiany (%1)</translation>
     </message>
     <message>
         <source>&amp;Enable Server</source>
-        <translation type="unfinished">&amp;Włącz serwer</translation>
+        <translation>&amp;Włącz serwer</translation>
     </message>
     <message>
         <source>When checked, the DHCP Server will be enabled for this network on machine start-up.</source>
-        <translation type="unfinished">Po zaznaczeniu tej opcji, serwer DHCP zostanie aktywowany dla tej sieci  przy starcie maszyny.</translation>
+        <translation>Po zaznaczeniu tej opcji, serwer DHCP zostanie aktywowany dla tej sieci przy starcie maszyny.</translation>
     </message>
     <message>
         <source>Server Add&amp;ress:</source>
-        <translation type="unfinished">Ad&amp;res serwera:</translation>
+        <translation>Ad&amp;res serwera:</translation>
     </message>
     <message>
         <source>Holds the address of the DHCP server servicing the network associated with this host-only adapter.</source>
-        <translation type="unfinished">Przechowuje adres serwera DHCP obsługującego sieć powiązaną z tą kartą sieci izolowanej.</translation>
+        <translation>Przechowuje adres serwera DHCP obsługującego sieć powiązaną z tą kartą sieci izolowanej.</translation>
     </message>
     <message>
         <source>Server &amp;Mask:</source>
-        <translation type="unfinished">&amp;Maska serwera:</translation>
+        <translation>&amp;Maska serwera:</translation>
     </message>
     <message>
         <source>Holds the network mask of the DHCP server servicing the network associated with this host-only adapter.</source>
-        <translation type="unfinished">Przechowuje maskę sieci serwera DHCP obsługującego sieć powiązaną z tą kartą sieci izolowanej.</translation>
+        <translation>Przechowuje maskę sieci serwera DHCP obsługującego sieć powiązaną z tą kartą sieci izolowanej.</translation>
     </message>
     <message>
         <source>&amp;Lower Address Bound:</source>
-        <translation type="unfinished">D&amp;olna granica adresów:</translation>
+        <translation>D&amp;olna granica adresów:</translation>
     </message>
     <message>
         <source>Holds the lower address bound offered by the DHCP server servicing the network associated with this host-only adapter.</source>
@@ -4794,19 +4794,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Upper Address Bound:</source>
-        <translation type="unfinished">&amp;Górna granica adresów:</translation>
+        <translation>&amp;Górna granica adresów:</translation>
     </message>
     <message>
         <source>Holds the upper address bound offered by the DHCP server servicing the network associated with this host-only adapter.</source>
-        <translation type="unfinished">Określa górną granicę zakresu adresów oferowanych przez sewer DHCP obsługujący sieć powiązaną z tą kartą sieci izolowanej.</translation>
+        <translation>Określa górną granicę zakresu adresów oferowanych przez sewer DHCP obsługujący sieć powiązaną z tą kartą sieci izolowanej.</translation>
     </message>
     <message>
         <source>Reset changes in current DHCP server details</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj zmiany w bieżących szczegółach DHCP</translation>
     </message>
     <message>
         <source>Apply changes in current DHCP server details</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj zmiany w bieżących szczegółach DHCP</translation>
     </message>
     <message>
         <source>Host interface &lt;nobr&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/nobr&gt; is set to obtain the address automatically but the corresponding DHCP server is not enabled.</source>
@@ -4850,123 +4850,123 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Enable</source>
         <comment>DHCP Server</comment>
-        <translation type="unfinished">Włącz</translation>
+        <translation>Włącz</translation>
     </message>
     <message>
         <source>Adapter</source>
-        <translation type="unfinished">Karta</translation>
+        <translation>Karta</translation>
     </message>
     <message>
         <source>Automatically configured</source>
         <comment>interface</comment>
-        <translation type="unfinished">Konfiguracja automatyczna</translation>
+        <translation>Konfiguracja automatyczna</translation>
     </message>
     <message>
         <source>Manually configured</source>
         <comment>interface</comment>
-        <translation type="unfinished">Konfiguracja ręczna</translation>
+        <translation>Konfiguracja ręczna</translation>
     </message>
     <message>
         <source>IPv4 Address</source>
-        <translation type="unfinished">Adres IPv4</translation>
+        <translation>Adres IPv4</translation>
     </message>
     <message>
         <source>Not set</source>
         <comment>address</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie ustawiony</translation>
     </message>
     <message>
         <source>IPv4 Network Mask</source>
-        <translation type="unfinished">Maska sieci IPv4</translation>
+        <translation>Maska sieci IPv4</translation>
     </message>
     <message>
         <source>Not set</source>
         <comment>mask</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie ustawiony</translation>
     </message>
     <message>
         <source>IPv6 Address</source>
-        <translation type="unfinished">Adres IPv6</translation>
+        <translation>Adres IPv6</translation>
     </message>
     <message>
         <source>IPv6 Prefix Length</source>
-        <translation type="unfinished">Długość maski sieci IPv6</translation>
+        <translation>Długość maski sieci IPv6</translation>
     </message>
     <message>
         <source>Not set</source>
         <comment>length</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie ustawiony</translation>
     </message>
     <message>
         <source>DHCP Server</source>
-        <translation type="unfinished">Serwer DHCP</translation>
+        <translation>Serwer DHCP</translation>
     </message>
     <message>
         <source>Enabled</source>
         <comment>server</comment>
-        <translation type="unfinished"></translation>
+        <translation>Włączony</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>server</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wyłączony</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Adres</translation>
+        <translation>Adres</translation>
     </message>
     <message>
         <source>Network Mask</source>
-        <translation type="unfinished">Maska sieci</translation>
+        <translation>Maska sieci</translation>
     </message>
     <message>
         <source>Lower Bound</source>
-        <translation type="unfinished">Dolny zakres</translation>
+        <translation>Dolny zakres</translation>
     </message>
     <message>
         <source>Not set</source>
         <comment>bound</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie ustawiony</translation>
     </message>
     <message>
         <source>Upper Bound</source>
-        <translation type="unfinished">Górny zakres</translation>
+        <translation>Górny zakres</translation>
     </message>
     <message>
         <source>&amp;Network</source>
-        <translation type="unfinished">&amp;Sieć</translation>
+        <translation>&amp;Sieć</translation>
     </message>
     <message>
         <source>&amp;Create</source>
-        <translation type="unfinished">&amp;Stwórz</translation>
+        <translation>&amp;Utwórz</translation>
     </message>
     <message>
         <source>Create Host-only Network (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Utwórz sieć izolowaną (%1)</translation>
     </message>
     <message>
         <source>Create new host-only network</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz nową sieć izolowaną</translation>
     </message>
     <message>
         <source>&amp;Remove...</source>
-        <translation type="unfinished">&amp;Usuń...</translation>
+        <translation>&amp;Usuń...</translation>
     </message>
     <message>
         <source>Remove Host-only Network (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń sieć izolowaną (%1)</translation>
     </message>
     <message>
         <source>Remove selected host-only network</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń wybraną sieć izolowaną</translation>
     </message>
     <message>
         <source>&amp;Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Właściwości...</translation>
     </message>
     <message>
         <source>Open Host-only Network Properties (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz właściwości sieci izolowanej (%1)</translation>
     </message>
     <message>
         <source>Open pane with selected host-only network properties</source>
@@ -4974,43 +4974,43 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Refresh...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Odśwież...</translation>
     </message>
     <message>
         <source>Refresh Host-only Networks (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Odśwież sieci izolowane (%1)</translation>
     </message>
     <message>
         <source>Refresh the list of host-only networks</source>
-        <translation type="unfinished"></translation>
+        <translation>Odśwież listę sieci izolowanych</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nazwa</translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>IPv4 Address/Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres IPv4/Maska</translation>
     </message>
     <message>
         <source>IPv6 Address/Mask</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres IPv6/Maska</translation>
     </message>
     <message>
         <source>Host Network Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>Zarządzanie siecią gościa</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">Zresetuj</translation>
+        <translation>Zresetuj</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Reset changes in current host network details</source>
@@ -5026,15 +5026,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Reset Changes (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj zmiany (%1)</translation>
     </message>
     <message>
         <source>Apply Changes (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj zmiany (%1)</translation>
     </message>
     <message>
         <source>Close Window (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij okno (%1)</translation>
     </message>
 </context>
 <context>
@@ -5518,62 +5518,62 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Adapter %1 (%2)</source>
         <comment>Network tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Karta %1 (%2)</translation>
     </message>
     <message>
         <source>IP</source>
         <comment>Network tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>IP</translation>
     </message>
     <message>
         <source>Cable</source>
         <comment>Network tooltip</comment>
-        <translation type="unfinished">Kabel</translation>
+        <translation>Kabel</translation>
     </message>
     <message>
         <source>Connected</source>
         <comment>cable (Network tooltip)</comment>
-        <translation type="unfinished">Podłączony</translation>
+        <translation>Podłączony</translation>
     </message>
     <message>
         <source>Disconnected</source>
         <comment>cable (Network tooltip)</comment>
-        <translation type="unfinished">Odłączony</translation>
+        <translation>Odłączony</translation>
     </message>
     <message>
         <source>No USB devices attached</source>
         <comment>USB tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak podłączonych urządzeń USB</translation>
     </message>
     <message>
         <source>No shared folders</source>
         <comment>Shared folders tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak folderów współdzielonych</translation>
     </message>
     <message>
         <source>Video memory</source>
         <comment>Display tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pamięć wideo</translation>
     </message>
     <message>
         <source>Screens</source>
         <comment>Display tooltip</comment>
-        <translation type="unfinished">Ekrany</translation>
+        <translation>Ekrany</translation>
     </message>
     <message>
         <source>3D acceleration</source>
         <comment>Display tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Akceleracja 3D</translation>
     </message>
     <message>
         <source>Video capture disabled</source>
         <comment>Video capture tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przechwytywanie obrazu wyłączone</translation>
     </message>
     <message>
         <source>Video capture file</source>
         <comment>Video capture tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plik przechwytywanego obrazu</translation>
     </message>
     <message>
         <source>Indicates whether the host mouse pointer is captured by the guest OS:%1</source>
@@ -5583,27 +5583,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>pointer is not captured</source>
         <comment>Mouse tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>wskaźnik nie jest przechwytywany</translation>
     </message>
     <message>
         <source>pointer is captured</source>
         <comment>Mouse tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>wskaźnik jest przechwytywany</translation>
     </message>
     <message>
         <source>mouse integration (MI) is On</source>
         <comment>Mouse tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>integracja myszy (IM) jest Aktywna</translation>
     </message>
     <message>
         <source>MI is Off, pointer is captured</source>
         <comment>Mouse tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>IM jest Wyłączona, wskaźnik jest przechwytywany</translation>
     </message>
     <message>
         <source>MI is Off, pointer is not captured</source>
         <comment>Mouse tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>IM jest Wyłączona, wskaźnik nie jest przechwytywany</translation>
     </message>
     <message>
         <source>Note that the mouse integration feature requires Guest Additions to be installed in the guest OS.</source>
@@ -12088,15 +12088,15 @@ Będzie ona używana przez wszystkie moduły VirtualBox, aby móc rozróżnić t
     <name>UIScreenshotViewer</name>
     <message>
         <source>Screenshot of %1 (%2)</source>
-        <translation type="unfinished">Zrzut ekranu %1 (%2)</translation>
+        <translation>Zrzut ekranu %1 (%2)</translation>
     </message>
     <message>
         <source>Click to view non-scaled screenshot.</source>
-        <translation type="unfinished">Kliknij aby wyświetlić nieskalowany zrzut ekranu.</translation>
+        <translation>Kliknij aby wyświetlić nieskalowany zrzut ekranu.</translation>
     </message>
     <message>
         <source>Click to view scaled screenshot.</source>
-        <translation type="unfinished">Kliknij aby wyświetlić skalowany zrzut ekranu.</translation>
+        <translation>Kliknij aby wyświetlić skalowany zrzut ekranu.</translation>
     </message>
 </context>
 <context>
@@ -12128,7 +12128,7 @@ Będzie ona używana przez wszystkie moduły VirtualBox, aby móc rozróżnić t
     </message>
     <message>
         <source>Show Toolbar Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyświetl tekst na pasku narzędzi</translation>
     </message>
 </context>
 <context>
@@ -12318,79 +12318,79 @@ Będzie ona używana przez wszystkie moduły VirtualBox, aby móc rozróżnić t
     <name>UISnapshotDetailsWidget</name>
     <message>
         <source>&amp;Attributes</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Atrybuty</translation>
     </message>
     <message>
         <source>&amp;Information</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Informacje</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Nazwa:</translation>
+        <translation>&amp;Nazwa:</translation>
     </message>
     <message>
         <source>&amp;Description:</source>
-        <translation type="unfinished">&amp;Opis:</translation>
+        <translation>&amp;Opis:</translation>
     </message>
     <message>
         <source>Holds the snapshot name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przechowuje nazwę migawki.</translation>
     </message>
     <message>
         <source>Holds the snapshot description.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przechowuje opis migawki.</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished">Zresetuj</translation>
+        <translation>Zresetuj</translation>
     </message>
     <message>
         <source>Apply changes in current snapshot details</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj zmiany w bieżących szczegółach migawki</translation>
     </message>
     <message>
         <source>Reset changes in current snapshot details</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj zmiany w bieżących szczegółach migawki</translation>
     </message>
     <message>
         <source>Apply Changes (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj zmiany (%1)</translation>
     </message>
     <message>
         <source>Reset Changes (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zresetuj zmiany (%1)</translation>
     </message>
     <message>
         <source>Click to enlarge the screenshot.</source>
-        <translation type="unfinished">Kliknij aby powiększyć zrzut ekranu.</translation>
+        <translation>Kliknij aby powiększyć zrzut ekranu.</translation>
     </message>
     <message>
         <source>Snapshot name is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa migawki jest pusta</translation>
     </message>
     <message>
         <source>Enter a name for the new snapshot...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź nazwę dla nowej migawki...</translation>
     </message>
     <message>
         <source>Enter a name for this snapshot...</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź nazwę dla tej migawki...</translation>
     </message>
     <message>
         <source>Take</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz</translation>
     </message>
     <message>
         <source>Take snapshot on the basis of current machine state</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrób migawkę bazując na aktualnym stanie maszyny wirtualnej</translation>
     </message>
     <message>
         <source>Take Snapshot (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrób migawkę (%1)</translation>
     </message>
 </context>
 <context>
@@ -12398,133 +12398,133 @@ Będzie ona używana przez wszystkie moduły VirtualBox, aby móc rozróżnić t
     <message>
         <source>Current State (changed)</source>
         <comment>Current State (Modified)</comment>
-        <translation type="unfinished">Aktualny stan (zmieniony)</translation>
+        <translation>Aktualny stan (zmieniony)</translation>
     </message>
     <message>
         <source>Current State</source>
         <comment>Current State (Unmodified)</comment>
-        <translation type="unfinished">Aktualny stan</translation>
+        <translation>Aktualny stan</translation>
     </message>
     <message>
         <source>The current state differs from the state stored in the current snapshot</source>
-        <translation type="unfinished">Aktualny stan różni się od stanu zapisanego w aktualnej migawce</translation>
+        <translation>Aktualny stan różni się od stanu zapisanego w aktualnej migawce</translation>
     </message>
     <message>
         <source>The current state is identical to the state stored in the current snapshot</source>
-        <translation type="unfinished">Aktualny stan jest identyczny ze stanem zapisanym w aktualnej migawce</translation>
+        <translation>Aktualny stan jest identyczny ze stanem zapisanym w aktualnej migawce</translation>
     </message>
     <message>
         <source>%1 (%2 ago)</source>
         <comment>date time (how long ago)</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2 temu)</translation>
     </message>
     <message>
         <source>%1 since %2</source>
         <comment>Current State (time or date + time)</comment>
-        <translation type="unfinished">%1 od %2</translation>
+        <translation>%1 od %2</translation>
     </message>
     <message>
         <source>current</source>
         <comment>snapshot</comment>
-        <translation type="unfinished"></translation>
+        <translation>aktualna</translation>
     </message>
     <message>
         <source>online</source>
         <comment>snapshot</comment>
-        <translation type="unfinished"></translation>
+        <translation>połączona</translation>
     </message>
     <message>
         <source>offline</source>
         <comment>snapshot</comment>
-        <translation type="unfinished"></translation>
+        <translation>rozłączona</translation>
     </message>
     <message>
         <source>Taken at %1</source>
         <comment>Snapshot (time)</comment>
-        <translation type="unfinished">Zrobiona o %1</translation>
+        <translation>Zrobiona o %1</translation>
     </message>
     <message>
         <source>Taken on %1</source>
         <comment>Snapshot (date + time)</comment>
-        <translation type="unfinished">Zrobiona %1</translation>
+        <translation>Zrobiona %1</translation>
     </message>
     <message>
         <source>Contains the snapshot tree of the current virtual machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawiera drzewo migawek dla aktualnej maszyny wirtualnej</translation>
     </message>
     <message>
         <source>&amp;Take...</source>
-        <translation type="unfinished"></translation>
+        <translation>U&amp;twórz...</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Usuń</translation>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>&amp;Restore</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;rzywróć</translation>
     </message>
     <message>
         <source>&amp;Properties...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Właściwości...</translation>
     </message>
     <message>
         <source>&amp;Clone...</source>
-        <translation type="unfinished">&amp;Sklonuj...</translation>
+        <translation>&amp;Sklonuj...</translation>
     </message>
     <message>
         <source>Take Snapshot (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zrób migawkę (%1)</translation>
     </message>
     <message>
         <source>Delete Snapshot (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń migawkę (%1)</translation>
     </message>
     <message>
         <source>Restore Snapshot (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Przywróć migawkę (%1)</translation>
     </message>
     <message>
         <source>Open Snapshot Properties (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz właściwości migawki (%1)</translation>
     </message>
     <message>
         <source>Clone Virtual Machine (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Klonuj maszynę wirtualną (%1)</translation>
     </message>
     <message>
         <source>Take a snapshot of the current virtual machine state</source>
-        <translation type="unfinished">Zrób migawkę aktualnego stanu maszyny wirtualnej</translation>
+        <translation>Zrób migawkę aktualnego stanu maszyny wirtualnej</translation>
     </message>
     <message>
         <source>Delete selected snapshot of the virtual machine</source>
-        <translation type="unfinished">Usuń wybraną migawkę maszyny wirtualnej</translation>
+        <translation>Usuń wybraną migawkę maszyny wirtualnej</translation>
     </message>
     <message>
         <source>Restore selected snapshot of the virtual machine</source>
-        <translation type="unfinished">Przywróć wybraną migawkę maszyny wirtualnej</translation>
+        <translation>Przywróć wybraną migawkę maszyny wirtualnej</translation>
     </message>
     <message>
         <source>Open pane with the selected snapshot properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz panel z właściwościami wybranej migawki</translation>
     </message>
     <message>
         <source>Clone selected virtual machine</source>
-        <translation type="unfinished"></translation>
+        <translation>Klonuj wybraną maszynę wirtualną</translation>
     </message>
     <message>
         <source>Name</source>
         <comment>snapshot</comment>
-        <translation type="unfinished">Nazwa</translation>
+        <translation>Nazwa</translation>
     </message>
     <message>
         <source>Taken</source>
         <comment>snapshot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Utworzona</translation>
     </message>
     <message>
         <source>Snapshot %1</source>
-        <translation type="unfinished">Migawka %1</translation>
+        <translation>Migawka %1</translation>
     </message>
 </context>
 <context>
@@ -12546,19 +12546,19 @@ Będzie ona używana przez wszystkie moduły VirtualBox, aby móc rozróżnić t
     <name>UITakeSnapshotDialog</name>
     <message>
         <source>Take Snapshot of Virtual Machine</source>
-        <translation type="unfinished">Tworzenie migawki maszyny wirtualnej</translation>
+        <translation>Tworzenie migawki maszyny wirtualnej</translation>
     </message>
     <message>
         <source>Snapshot &amp;Name</source>
-        <translation type="unfinished">&amp;Nazwa migawki</translation>
+        <translation>&amp;Nazwa migawki</translation>
     </message>
     <message>
         <source>Snapshot &amp;Description</source>
-        <translation type="unfinished">Opis &amp;migawki</translation>
+        <translation>Opis &amp;migawki</translation>
     </message>
     <message numerus="yes">
         <source>Warning: You are taking a snapshot of a running machine which has %n immutable image(s) attached to it. As long as you are working from this snapshot the immutable image(s) will not be reset to avoid loss of data.</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Ostrzeżenie: robiona jest migawka działającej maszyny wirtualnej, która ma dołączony %n niezmienny obraz. Podczas pracy z tą migawką ten niezmienny obraz nie zostanie zresetowany aby zapobiec utracie danych.</numerusform>
             <numerusform>Ostrzeżenie: robiona jest migawka działającej maszyny wirtualnej, która ma dołączone %n niezmienne obrazy. Podczas pracy z tą migawką te niezmienne obrazy nie zostaną zresetowane aby zapobiec utracie danych.</numerusform>
             <numerusform>Ostrzeżenie: robiona jest migawka działającej maszyny wirtualnej, która ma dołączonych %n niezmiennych obrazów. Podczas pracy z tą migawką te niezmienne obrazy nie zostaną zresetowane aby zapobiec utracie danych.</numerusform>
@@ -12566,7 +12566,7 @@ Będzie ona używana przez wszystkie moduły VirtualBox, aby móc rozróżnić t
     </message>
     <message>
         <source>Snapshot %1</source>
-        <translation type="unfinished">Migawka %1</translation>
+        <translation>Migawka %1</translation>
     </message>
 </context>
 <context>
@@ -12624,11 +12624,11 @@ Lewa część tego okna przedstawia listę wszystkich maszyn wirtualnych i grup 
     </message>
     <message>
         <source>Tool to observe virtual machine (VM) details. Reflects groups of &lt;u&gt;properties&lt;/u&gt; for the currently chosen VM and allows basic operations on certain properties (like the machine storage devices).</source>
-        <translation type="unfinished"></translation>
+        <translation>Narzędzie do obserwowania szczegółów maszyny wirtualnej (VM). Odzwierciedla grupę &lt;u&gt;właściwości&lt;/u&gt; obecnie wybranej VM i umożliwia podstawowe operacje na pewnych właściwościach (jak urządzenia magazynowania maszyny).</translation>
     </message>
     <message>
         <source>Tool to control virtual machine (VM) snapshots. Reflects &lt;u&gt;snapshots&lt;/u&gt; created for the currently selected VM and allows snapshot operations like &lt;u&gt;create&lt;/u&gt;, &lt;u&gt;remove&lt;/u&gt;, &lt;u&gt;restore&lt;/u&gt; (make current) and observe their properties. Allows to &lt;u&gt;edit&lt;/u&gt; snapshot attributes like &lt;u&gt;name&lt;/u&gt; and &lt;u&gt;description&lt;/u&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Narzędzie do kontrolowania migawek maszyny wirtualnej (VM). Odzwierciedla &lt;u&gt;migawki&lt;/u&gt; utworzone dla obecnie wybranej VM i umożliwia operacje na migawkach, takie jak &lt;u&gt;utwórz&lt;/u&gt;, &lt;u&gt;usuń&lt;/u&gt;, &lt;u&gt;przywróć&lt;/u&gt; (ustaw jako aktywną) oraz przeglądanie ich właściwości. Pozwala na &lt;u&gt;edycję&lt;/u&gt; atrybutów migawki, takich jak &lt;u&gt;nazwa&lt;/u&gt; i &lt;u&gt;opis&lt;/u&gt;.</translation>
     </message>
 </context>
 <context>
