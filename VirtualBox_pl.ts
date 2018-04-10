@@ -26,7 +26,7 @@
     <message>
         <source>Oracle Corporation</source>
         <comment>Comma-separated list of translators</comment>
-        <translation type="unfinished">Dawid Wrobel, Adrian Lubik, Wiktor Wandachowicz, Bartosz</translation>
+        <translation>Dawid Wrobel, Adrian Lubik, Wiktor Wandachowicz, Bartosz</translation>
     </message>
 </context>
 <context>
@@ -1205,11 +1205,11 @@
     </message>
     <message>
         <source>&amp;Normal Start</source>
-        <translation>&amp;Zwykły start</translation>
+        <translation>&amp;Normalnie</translation>
     </message>
     <message>
         <source>&amp;Headless Start</source>
-        <translation>&amp;Bezgłowy start</translation>
+        <translation>&amp;Bez okna głównego</translation>
     </message>
     <message>
         <source>Start selected virtual machines in the background</source>
@@ -1217,7 +1217,7 @@
     </message>
     <message>
         <source>&amp;Detachable Start</source>
-        <translation>&amp;Oddzielny start</translation>
+        <translation>&amp;W oddzielnym procesie</translation>
     </message>
     <message>
         <source>Start selected virtual machines with option of continuing in background</source>
@@ -2265,7 +2265,7 @@
     <message>
         <source>Result&amp;nbsp;Code: </source>
         <comment>error info</comment>
-        <translation type="unfinished">Kod&amp;nbsp;wyniku&amp;nbsp;(RC): </translation>
+        <translation>Kod&amp;nbsp;wyniku&amp;nbsp;(RC): </translation>
     </message>
     <message>
         <source>Component: </source>
@@ -3424,7 +3424,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>%1 details</source>
         <comment>like &apos;General details&apos; or &apos;Storage details&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szczegóły %1</translation>
     </message>
 </context>
 <context>
@@ -3576,7 +3576,7 @@ p, li { white-space: pre-wrap; }
     <name>UIGDetailsView</name>
     <message>
         <source>Contains a list of Virtual Machine details</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawiera listę szczegółów Maszyny Wirtualnej</translation>
     </message>
 </context>
 <context>
@@ -3657,7 +3657,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Raise Window Under Mouse</source>
-        <translation type="unfinished">&amp;Podnieś okno pod mysz</translation>
+        <translation type="unfinished">&amp;Podnieś okno pod wskaźnikiem myszy</translation>
     </message>
     <message>
         <source>Holds the maximum width which we would like the guest to use.</source>
@@ -4814,15 +4814,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Host interface &lt;nobr&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/nobr&gt; does not currently have a valid IPv4 address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfejs gospodarza &lt;nobr&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/nobr&gt; nie posiada obecnie prawidłowego adresu IPv4.</translation>
     </message>
     <message>
         <source>Host interface &lt;nobr&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/nobr&gt; does not currently have a valid IPv4 network mask.</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfejs gospodarza &lt;nobr&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/nobr&gt; nie posiada obecnie prawidłowej maski IPv4.</translation>
     </message>
     <message>
         <source>Host interface &lt;nobr&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/nobr&gt; does not currently have a valid IPv6 address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfejs gospodarza &lt;nobr&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/nobr&gt; nie posiada obecnie prawidłowego adresu IPv6.</translation>
     </message>
     <message>
         <source>Host interface &lt;nobr&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/nobr&gt; does not currently have a valid IPv6 prefix length.</source>
@@ -4942,7 +4942,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create Host-only Network (%1)</source>
-        <translation type="unfinished">Utwórz sieć izolowaną (%1)</translation>
+        <translation>Utwórz sieć izolowaną (%1)</translation>
     </message>
     <message>
         <source>Create new host-only network</source>
@@ -5018,11 +5018,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Apply changes in current host network details</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj zmiany w bieżących szczegółach sieci gospodarza</translation>
     </message>
     <message>
         <source>Close dialog without saving</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij okno bez zapisywania</translation>
     </message>
     <message>
         <source>Reset Changes (%1)</source>
@@ -5608,7 +5608,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Note that the mouse integration feature requires Guest Additions to be installed in the guest OS.</source>
         <comment>Mouse tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pamiętaj, że funkcja integracji myszy wymaga zainstalowania Dodatków dla gościa w systemie gościa.</translation>
     </message>
     <message>
         <source>Indicates whether the host keyboard is captured by the guest OS:%1</source>
@@ -5618,12 +5618,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>keyboard is not captured</source>
         <comment>Keyboard tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>klawiatura nie jest przechwytywana</translation>
     </message>
     <message>
         <source>keyboard is captured</source>
         <comment>Keyboard tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>klawiatura jest przechwytywana</translation>
     </message>
 </context>
 <context>
@@ -5929,7 +5929,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Requests</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Żądania</translation>
     </message>
 </context>
 <context>
@@ -6182,7 +6182,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enable Audio &amp;Output</source>
-        <translation type="unfinished"></translation>
+        <translation>Włącz wyjście dźwiękowe</translation>
     </message>
     <message>
         <source>When checked, the guest will be able to capture audio input from the host. Otherwise the guest will capture only silence.</source>
@@ -6190,7 +6190,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enable Audio &amp;Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Włącz wejście dźwiękowe</translation>
     </message>
 </context>
 <context>
@@ -6500,7 +6500,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Record Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagrywaj dźwięk</translation>
     </message>
 </context>
 <context>
@@ -7421,7 +7421,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Shared &amp;Folders</source>
-        <translation type="unfinished">W&amp;spółdzielone foldery</translation>
+        <translation>W&amp;spółdzielone foldery</translation>
     </message>
 </context>
 <context>
@@ -8099,7 +8099,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Storage Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Urządzenia magazynowania</translation>
     </message>
 </context>
 <context>
@@ -9119,11 +9119,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Toggle menu %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz menu %1</translation>
     </message>
     <message>
         <source>Popup menu %1</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>może kontekstowe?</translatorcomment>
+        <translation type="unfinished">Wyskakujące menu %1</translation>
     </message>
 </context>
 <context>
@@ -10919,15 +10920,16 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;p&gt;You are about to start all of the following virtual machines:&lt;/p&gt;&lt;p&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This could take some time and consume a lot of host system resources. Do you wish to proceed?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Zamierzasz uruchomić naraz wszystkie następujące maszyny:&lt;/p&gt;&lt;p&gt;&lt;b&gt;%1&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Może to zająć sporo czasu i pochłonąć dużą część zasobów systemu gospodarza. Czy chcesz kontynuować?&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Can&apos;t find snapshot with ID=&lt;b&gt;%1&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć migawki z ID=&lt;b&gt;%1&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Can&apos;t acquire snapshot attributes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można uzyskać atrybutów migawki.</translation>
     </message>
     <message>
         <source>Failed to move the storage unit of the disk image &lt;b&gt;%1&lt;/b&gt; to &lt;b&gt;%2&lt;/b&gt;.</source>
@@ -10951,7 +10953,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Failed to create a host network interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie powiodło się utworzenie interfejsu sieci gospodarza.</translation>
     </message>
     <message>
         <source>Failed to acquire host network interface parameter.</source>
@@ -10971,27 +10973,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Failed to acquire DHCP server parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odczyt parametrów serwera DHCP nie powiódł się.</translation>
     </message>
     <message>
         <source>Failed to save DHCP server parameter.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapis parametrów serwera DHCP nie powiódł się.</translation>
     </message>
     <message>
         <source>&lt;p&gt;You are about to install a VirtualBox extension pack. Extension packs complement the functionality of VirtualBox and can contain system level software that could be potentially harmful to your system. Please review the description below and only proceed if you have obtained the extension pack from a trusted source.&lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=5&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Name:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Version:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Zamierzasz zainstalować pakiet rozszerzeń VirtualBox. Pakiety rozszerzeń uzupełniają funkcjonalność VirtualBoxa, ale mogą zawierać oprogramowanie, które może być potencjalnie szkodliwe dla twojego systemu.Prosimy o zapoznanie się z opisem poniżej i kontynuować, tylko jeśli otrzymało się pakiet z zaufanego źródła. &lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nazwa:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Opis:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt; {0 ?} {5&gt;?} {1&lt;?} {2&lt;?} {3&lt;?}</translation>
+        <translation>&lt;p&gt;Zamierzasz zainstalować pakiet rozszerzeń VirtualBox. Pakiety rozszerzeń uzupełniają funkcjonalność VirtualBoxa, ale mogą zawierać oprogramowanie, które może być potencjalnie szkodliwe dla Twojego systemu.Prosimy o zapoznanie się z opisem poniżej i kontynuowanie tylko, jeśli otrzymało się pakiet z zaufanego źródła. &lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nazwa:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Opis:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt; {0 ?} {5&gt;?} {1&lt;?} {2&lt;?} {3&lt;?}</translation>
     </message>
     <message>
         <source>&lt;p&gt;An older version of the extension pack is already installed, would you like to upgrade? &lt;p&gt;%1&lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=5&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Name:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;New Version:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Current Version:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Starsza wersja pakietu rozszerzeń jest już zainstalowana, czy chcesz zaktualizować? &lt;p&gt;%1&lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nazwa:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nowa wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Aktualna wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Opis:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt; {1&lt;?} {0 ?} {5&gt;?} {2&lt;?} {3&lt;?} {4&lt;?} {5&lt;?}</translation>
+        <translation>&lt;p&gt;Starsza wersja pakietu rozszerzeń jest już zainstalowana, czy chcesz zaktualizować? &lt;p&gt;%1&lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nazwa:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nowa wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Aktualna wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Opis:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt; {1&lt;?} {0 ?} {5&gt;?} {2&lt;?} {3&lt;?} {4&lt;?} {5&lt;?}</translation>
     </message>
     <message>
         <source>&lt;p&gt;An newer version of the extension pack is already installed, would you like to downgrade? &lt;p&gt;%1&lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=5&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Name:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;New Version:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Current Version:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Nowsza wersja pakietu rozszerzeń jest już zainstalowana, czy chcesz zdezaktualizować? &lt;p&gt;%1&lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nazwa:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nowa wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Aktualna wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Opis:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt; {1&lt;?} {0 ?} {5&gt;?} {2&lt;?} {3&lt;?} {4&lt;?} {5&lt;?}</translation>
+        <translation>&lt;p&gt;Nowsza wersja pakietu rozszerzeń jest już zainstalowana, czy chcesz zdezaktualizować? &lt;p&gt;%1&lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nazwa:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nowa wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Aktualna wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Opis:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%5&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt; {1&lt;?} {0 ?} {5&gt;?} {2&lt;?} {3&lt;?} {4&lt;?} {5&lt;?}</translation>
     </message>
     <message>
         <source>&lt;p&gt;The extension pack is already installed with the same version, would you like reinstall it? &lt;p&gt;%1&lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=5&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Name:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Version:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Description:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Pakiet rozszerzeń jest już zainstalowany w tej samej wersji, czy chcesz go przeinstalować? &lt;p&gt;%1&lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nazwa:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Opis:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt; {1&lt;?} {0 ?} {5&gt;?} {2&lt;?} {3&lt;?} {4&lt;?}</translation>
+        <translation>&lt;p&gt;Pakiet rozszerzeń jest już zainstalowany w tej samej wersji, czy chcesz go przeinstalować? &lt;p&gt;%1&lt;/p&gt;&lt;p&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Nazwa:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Wersja:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;Opis:&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/td&gt;&lt;td&gt;%4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/p&gt; {1&lt;?} {0 ?} {5&gt;?} {2&lt;?} {3&lt;?} {4&lt;?}</translation>
     </message>
     <message>
         <source>Failed to enable the audio adapter output for the virtual machine &lt;b&gt;%1&lt;/b&gt;.</source>
@@ -11986,11 +11988,11 @@ Będzie ona używana przez wszystkie moduły VirtualBox, aby móc rozróżnić t
     <name>UIPopupPane</name>
     <message>
         <source>&lt;p&gt;&lt;b&gt;Details:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Szczegóły:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;Details:&lt;/b&gt; (%1 of %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;b&gt;Szczegóły:&lt;/b&gt; (%1 z %2)</translation>
     </message>
 </context>
 <context>
@@ -13165,11 +13167,11 @@ Lewa część tego okna przedstawia listę wszystkich maszyn wirtualnych i grup 
     </message>
     <message>
         <source>Copy Virtual Disk Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj obraz dysku wirtualnego</translation>
     </message>
     <message>
         <source>Disk image to copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obraz dysku do skopiowania</translation>
     </message>
     <message>
         <source>&lt;p&gt;Please select the virtual disk image file that you would like to copy if it is not already selected. You can either choose one from the list or use the folder icon beside the list to select one.&lt;/p&gt;</source>
